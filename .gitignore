@@ -18,6 +18,17 @@ rad.json
 *.g.xlf
 #License-files
 *.bclicense
+# .gitignore
+
+```gitignore
+master.key
+PRIVATE_CORE.json
+PRIVATE_CORE.enc
+.env
+*.pem
+*.db
+__pycache__/
+*.pyc
 *.flf
 #Test results file
-TestResults.xml
+TestResults.XML
